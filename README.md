@@ -14,5 +14,10 @@ Prairie Point Hotel is a responsive website template built with HTML and CSS, de
 - **HTML**: Used to create the structure and content of the website.
 - **CSS**: Used to design the layout, styles, and responsiveness of the website.
 
+## Live Demo
+
+You can view the live version of the Prairie Point Hotel website here: [Live Site](https://davidnwachukwu2005.github.io/prairie-point-hotel/)
+
+
 ## Contact
 For any inquiries, you can reach me at [davidike444@gmail.com].
